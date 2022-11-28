@@ -108,7 +108,7 @@ const questions = [
   {
     question: 'What was the best-selling Christmas toy in 2006?',
     answers: [
-      { text: 'Buzz Lightyear Action Figure', correct: false },
+      { text: 'Rubix Cube', correct: false },
       { text: 'BMX Bike', correct: false },
       { text: 'Nintendo Wii', correct: false },
       { text: 'XBox 360', correct: true },
