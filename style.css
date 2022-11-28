@@ -13,7 +13,7 @@
   body {
     --hue: var(--hue-neutral);
     padding: 0;
-    margin: 0;
+    margin: 0px;
     display: flex;
     width: 100vw;
     height: 100vh;
@@ -40,13 +40,14 @@
     padding: 10px;
     box-shadow: 0 0 10px 2px;
     font-size: 2em;
+    margin: 0px;
   }
   
   .btn-grid {
     display: grid;
     grid-template-columns: repeat(2, auto);
     gap: 10px;
-    margin: 20px 0;
+    margin: 0px ;
     max-width: 100%;
   }
   
