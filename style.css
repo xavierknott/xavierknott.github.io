@@ -47,6 +47,7 @@
     grid-template-columns: repeat(2, auto);
     gap: 10px;
     margin: 20px 0;
+    max-width: 100%;
   }
   
   .btn {
@@ -58,6 +59,7 @@
     color: white;
     outline: none;
     font-size: larger;
+    max-width: 100%;
   }
   
   .btn:hover {
@@ -83,6 +85,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    max-width: 100%;
   }
   
   .hide {
